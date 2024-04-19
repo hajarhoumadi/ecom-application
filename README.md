@@ -1,8 +1,8 @@
 <center><h3 style="color:Tomato;">Compte rendu</h3></center>
 <h5>1- Accés à la base de données nommée customer-db.</h5>
-<img width="525" alt="1" src="https://github.com/hajarhoumadi/ecom-application/assets/110836199/890b0e1b-6d7e-4b95-8684-79a19551aa40">
+<img width="525" alt="1" src="https://github.com/hajarhoumadi/ecom-application/assets/110836199/79ba991d-7039-4a90-8867-c9118e37e696">
 <h5>2- Affichage de la base de données customer-db avec les champs suivants : (ID, EMAIL et NAME).</h5>
-<img width="557" alt="2" src="https://github.com/hajarhoumadi/ecom-application/assets/110836199/3225d0ed-cd57-4179-ac74-0ceb5f7594a1">
+<img width="557" alt="2" src="https://github.com/hajarhoumadi/ecom-application/assets/110836199/058e6cde-4761-4722-ab53-7761ad285aa7">
 <h5>3- Affichage de la liste de customers avec leurs informations telles que : (NOM, EMAIL, et LINKS) vers leurs profils. Les informations sont organisées en utilisant le format HAL (Hypertext Application Language) avec des liens auto-descriptifs. </h5>
 <img width="425" alt="3" src="https://github.com/hajarhoumadi/ecom-application/assets/110836199/2af7a707-fe5f-48a0-85c4-7010cdc9f368">
 <h5>4- Affichage du customer nommé Hassan avec : (ID=1 , EMAIL, LINKS) et une projection de ce profil.</h5>
